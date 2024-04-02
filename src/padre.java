@@ -1,2 +1,3 @@
-public class padre {
+public abstract class padre {
+    public abstract int metodoheredado();
 }

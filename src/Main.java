@@ -4,5 +4,7 @@ public class Main {
     public static void main(String[] args) {
         baraja bar = new baraja();
         bar.barajoide();
+        System.out.println();
+        bar.sacarvalores();
     }
 }
